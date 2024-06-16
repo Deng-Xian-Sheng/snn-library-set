@@ -1,6 +1,6 @@
 # SNN-库-合集
 
-[中文]{README_zh.md}|[English]{README.md}
+[中文](https://github.com/Deng-Xian-Sheng/snn-library-set/blob/main/README_zh.md)|[English](https://github.com/Deng-Xian-Sheng/snn-library-set/blob/main/README.md)
 
 这是一个SNN（尖峰神经网络）的库合集，或者SNN的框架合集。
 

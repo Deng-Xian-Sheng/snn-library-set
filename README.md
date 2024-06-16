@@ -1,6 +1,6 @@
 # SNN Libraries Collection
 
-[中文]{README_zh.md}|[English]{README.md}
+[中文](https://github.com/Deng-Xian-Sheng/snn-library-set/blob/main/README_zh.md)|[English](https://github.com/Deng-Xian-Sheng/snn-library-set/blob/main/README.md)
 
 This is a collection of SNN (Spiking Neural Network) libraries or frameworks.
 
