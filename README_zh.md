@@ -14,4 +14,4 @@
 
 - [snntorch](https://github.com/jeshraghian/snntorch) 是一个 Python 包，用于使用脉冲神经网络执行基于梯度的学习。
 
-- [BrainCog](https://github.com/BrainCog-X/Brain-Cog) BrainCog 是一个基于开源脉冲神经网络的大脑启发 用于类脑人工智能和大脑模拟的认知智能引擎。
+- [BrainCog](https://github.com/BrainCog-X/Brain-Cog) 是一个基于开源脉冲神经网络的大脑启发 用于类脑人工智能和大脑模拟的认知智能引擎。
